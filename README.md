@@ -6,7 +6,7 @@
 - Investigating the Applicability of Self-Assessment Tests for Personality Measurement of Large Language Models, 2023.09 [[paper]](https://arxiv.org/pdf/2309.08163.pdf)
 - Does Role-Playing Chatbots Capture the Character Personalities? Assessing Personality Traits for Role-Playing Chatbots, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17976.pdf) [[code]](https://github.com/LC1332/Chat-Haruhi-Suzumiya)
 - Editing Personality for LLMs, 2023.10 [[paper]](https://arxiv.org/pdf/2310.02168.pdf)
-- Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons, 2023.10 [[https://arxiv.org/pdf/2310.16582.pdf]]
+- Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16582.pdf)
 - You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments, 2023.11 [[paper]](https://arxiv.org/pdf/2311.09718.pdf)
 - On the steerability of large language models toward data-driven personas, 2023.11 [[paper]](https://arxiv.org/pdf/2311.04978.pdf)
 
@@ -35,6 +35,6 @@
 
 ## Mental Health Applications
 - A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
-- Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness, 2023.10 [[https://www.nature.com/articles/s42256-023-00720-7]]
+- Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness, 2023.10 [[paper]](https://www.nature.com/articles/s42256-023-00720-7)
 - Rethinking Large Language Models in Mental Health Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
 - Challenges of Large Language Models for Mental Health Counseling, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
