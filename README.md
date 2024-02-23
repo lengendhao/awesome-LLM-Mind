@@ -10,6 +10,8 @@
 - You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments, 2023.11 [[paper]](https://arxiv.org/pdf/2311.09718.pdf)
 - On the steerability of large language models toward data-driven personas, 2023.11 [[paper]](https://arxiv.org/pdf/2311.04978.pdf)
 - Do personality tests generalize to Large Language Models?, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05297.pdf)
+- Is Cognition and Action Consistent or Not: Investigating Large Language Model’s Personality, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14679.pdf)
+- 
 
 ## Mental Health of LLM
 - Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, 2022.12 [[paper]](https://arxiv.org/pdf/2212.10529.pdf)
@@ -47,3 +49,4 @@
 
 ## Others
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
+- Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14424.pdf)
