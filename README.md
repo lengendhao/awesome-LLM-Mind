@@ -11,14 +11,12 @@
 - On the steerability of large language models toward data-driven personas, 2023.11 [[paper]](https://arxiv.org/pdf/2311.04978.pdf)
 - Do personality tests generalize to Large Language Models?, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05297.pdf)
 - Is Cognition and Action Consistent or Not: Investigating Large Language Model’s Personality, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14679.pdf)
-- 
 
 ## Mental Health of LLM
 - Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, 2022.12 [[paper]](https://arxiv.org/pdf/2212.10529.pdf)
 - Towards Healthy AI: Large Language Models Need Therapists Too, 2023.04 [[paper]](https://arxiv.org/pdf/2304.00416.pdf)
 - Inducing anxiety in large language models increases exploration and bias, 2023.04 [[paper]](https://arxiv.org/pdf/2304.11111.pdf)
 - Cognitive Effects in Large Language Model, 2023.08 [[paper]](https://arxiv.org/pdf/2308.14337.pdf)
-
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
@@ -31,6 +29,8 @@
 - Exploring ChatGPT’s Empathic Abilities, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03527.pdf)
 - MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19677.pdf)
 
+## Evaluation
+- Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
 
 ## Turning by Psychology 
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
@@ -46,6 +46,7 @@
 - Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness, 2023.10 [[paper]](https://www.nature.com/articles/s42256-023-00720-7)
 - Rethinking Large Language Models in Mental Health Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
 - Challenges of Large Language Models for Mental Health Counseling, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
+- Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
 
 ## Others
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
