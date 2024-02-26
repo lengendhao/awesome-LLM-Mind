@@ -11,6 +11,7 @@
 - On the steerability of large language models toward data-driven personas, 2023.11 [[paper]](https://arxiv.org/pdf/2311.04978.pdf)
 - Do personality tests generalize to Large Language Models?, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05297.pdf)
 - Is Cognition and Action Consistent or Not: Investigating Large Language Model’s Personality, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14679.pdf)
+- Stick to your Role! Stability of Personal Values Expressed in Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14846.pdf)
 
 ## Mental Health of LLM
 - Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, 2022.12 [[paper]](https://arxiv.org/pdf/2212.10529.pdf)
@@ -47,6 +48,7 @@
 - Rethinking Large Language Models in Mental Health Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
 - Challenges of Large Language Models for Mental Health Counseling, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
 - Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
+- A Dual-Prompting for Interpretable Mental Health Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14854.pdf)
 
 ## Others
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
