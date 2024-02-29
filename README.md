@@ -32,6 +32,7 @@
 
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
+- CogBench: a large language model walks into a psychology lab, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18225.pdf) [[code]](https://github.com/juliancodaforno/CogBench)
 
 ## Turning by Psychology 
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
