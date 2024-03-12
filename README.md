@@ -21,6 +21,7 @@
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
+- Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
@@ -33,6 +34,8 @@
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
 - CogBench: a large language model walks into a psychology lab, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18225.pdf) [[code]](https://github.com/juliancodaforno/CogBench)
+- GPT as Psychologist? Preliminary Evaluations for GPT-4V on Visual Affective Computing, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05916.pdf) [[code]](https://github.com/LuPaoPao/GPT4Affectivity)
+
 
 ## Turning by Psychology 
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
@@ -50,6 +53,8 @@
 - Challenges of Large Language Models for Mental Health Counseling, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11267.pdf)
 - Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
 - A Dual-Prompting for Interpretable Mental Health Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14854.pdf)
+- HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05574.pdf)
+
 
 ## Others
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
