@@ -1,4 +1,6 @@
 # awesome-LLM-Mind
+## Survey
+- Large Language Model for Mental Health: A Systematic Review, 2024.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2403/2403.15401.pdf)
 
 ## Personality
 - Can chatgpt assess human personalities? a general evaluation framework, 2023.06 [[paper]](https://arxiv.org/pdf/2303.01248.pdf)
@@ -54,6 +56,7 @@
 - Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
 - A Dual-Prompting for Interpretable Mental Health Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14854.pdf)
 - HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05574.pdf)
+- CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering, 2024.03 [[paper]](https://arxiv.org/pdf/2403.16008.pdf)
 
 
 ## Others
