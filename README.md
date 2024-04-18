@@ -14,6 +14,7 @@
 - Do personality tests generalize to Large Language Models?, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05297.pdf)
 - Is Cognition and Action Consistent or Not: Investigating Large Language Model’s Personality, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14679.pdf)
 - Stick to your Role! Stability of Personal Values Expressed in Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14846.pdf)
+- On the Decision-Making Abilities in Role-Playing using Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18807.pdf)
 
 ## Mental Health of LLM
 - Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, 2022.12 [[paper]](https://arxiv.org/pdf/2212.10529.pdf)
@@ -28,6 +29,9 @@
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
 
+## Agent
+- LLM Agents for Psychology: A Study on Gamified Assessments, 2024.02 [[paper]](https://arxiv.org/pdf/2402.12326.pdf)
+
 ## Moral 
 - Evaluating the Moral Beliefs Encoded in LLMs, 2023.07 [[paper]](https://arxiv.org/pdf/2307.14324.pdf) [[code]](https://github.com/ninodimontalcino/moralchoice)
 - Exploring ChatGPT’s Empathic Abilities, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03527.pdf)
@@ -37,7 +41,7 @@
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
 - CogBench: a large language model walks into a psychology lab, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18225.pdf) [[code]](https://github.com/juliancodaforno/CogBench)
 - GPT as Psychologist? Preliminary Evaluations for GPT-4V on Visual Affective Computing, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05916.pdf) [[code]](https://github.com/LuPaoPao/GPT4Affectivity)
-
+- Evaluating and Inducing Personality in Pre-trained Language Models, 2023.09 [[paper]](https://arxiv.org/pdf/2206.07550.pdf) [[project]](https://sites.google.com/view/machinepersonality)
 
 ## Turning by Psychology 
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
