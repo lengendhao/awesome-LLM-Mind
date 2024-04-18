@@ -31,6 +31,7 @@
 
 ## Agent
 - LLM Agents for Psychology: A Study on Gamified Assessments, 2024.02 [[paper]](https://arxiv.org/pdf/2402.12326.pdf)
+- Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions, 2024.04 [[paper]](https://arxiv.org/pdf/2404.11023.pdf)
 
 ## Moral 
 - Evaluating the Moral Beliefs Encoded in LLMs, 2023.07 [[paper]](https://arxiv.org/pdf/2307.14324.pdf) [[code]](https://github.com/ninodimontalcino/moralchoice)
@@ -61,6 +62,7 @@
 - A Dual-Prompting for Interpretable Mental Health Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14854.pdf)
 - HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05574.pdf)
 - CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering, 2024.03 [[paper]](https://arxiv.org/pdf/2403.16008.pdf)
+- AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts, 2024.04 [[paper]](https://arxiv.org/pdf/2404.11449.pdf)
 
 
 ## Others
