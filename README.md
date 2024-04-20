@@ -1,5 +1,6 @@
 # awesome-LLM-Mind
 ## Survey
+- Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review, 2024.01 [[paper]](https://arxiv.org/ftp/arxiv/papers/2401/2401.01519.pdf)
 - Large Language Model for Mental Health: A Systematic Review, 2024.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2403/2403.15401.pdf)
 
 ## Personality
