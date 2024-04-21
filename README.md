@@ -16,6 +16,7 @@
 - Is Cognition and Action Consistent or Not: Investigating Large Language Model’s Personality, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14679.pdf)
 - Stick to your Role! Stability of Personal Values Expressed in Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14846.pdf)
 - On the Decision-Making Abilities in Role-Playing using Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18807.pdf)
+- Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots, 2024.03 [[paper]](https://www.nature.com/articles/s41598-024-55949-y)
 
 ## Mental Health of LLM
 - Does GPT-3 Demonstrate Psychopathy? Evaluating Large Language Models from a Psychological Perspective, 2022.12 [[paper]](https://arxiv.org/pdf/2212.10529.pdf)
