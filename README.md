@@ -23,6 +23,7 @@
 - Towards Healthy AI: Large Language Models Need Therapists Too, 2023.04 [[paper]](https://arxiv.org/pdf/2304.00416.pdf)
 - Inducing anxiety in large language models increases exploration and bias, 2023.04 [[paper]](https://arxiv.org/pdf/2304.11111.pdf)
 - Cognitive Effects in Large Language Model, 2023.08 [[paper]](https://arxiv.org/pdf/2308.14337.pdf)
+- Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots, 2024.04 [[paper]](https://www.nature.com/articles/s41598-024-55949-y)
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
