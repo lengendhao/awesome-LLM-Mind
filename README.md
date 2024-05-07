@@ -28,6 +28,7 @@
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
 - Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
+- The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
@@ -52,6 +53,7 @@
 
 ## Turning by Psychology 
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
+- NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli, 2024.05 [[paper]](https://arxiv.org/pdf/2405.02814)
 
 ## Bechmark
 - Emotionally numb or empathetic? evaluating how llms feel using emotionbench, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03656.pdf)[[code]](https://github.com/CUHK-ARISE/EmotionBench)
