@@ -41,6 +41,9 @@
 - Exploring ChatGPT’s Empathic Abilities, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03527.pdf)
 - MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19677.pdf)
 
+## LLM and Human
+- Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
+
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
 - CogBench: a large language model walks into a psychology lab, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18225.pdf) [[code]](https://github.com/juliancodaforno/CogBench)
