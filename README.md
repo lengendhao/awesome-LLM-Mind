@@ -29,6 +29,7 @@
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
 - Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
 - The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
+- Quite Good, but Not Enough: Nationality Bias in Large Language Models - A Case Study of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.06996)
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
@@ -78,3 +79,4 @@
 - Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14424.pdf)
 - Towards a Psychology of Machines: Large Language Models Predict Human Memory, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05152.pdf)
 - The Psychosocial Impacts of Generative AI Harms, 2024.05 [[paper]](https://arxiv.org/pdf/2405.01740)
+- Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
