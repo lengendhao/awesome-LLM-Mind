@@ -72,6 +72,7 @@
 - HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05574.pdf)
 - CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering, 2024.03 [[paper]](https://arxiv.org/pdf/2403.16008.pdf)
 - AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts, 2024.04 [[paper]](https://arxiv.org/pdf/2404.11449.pdf)
+- Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support, 2024.05 [[paper]](https://arxiv.org/pdf/2405.09300)
 
 
 ## Others
