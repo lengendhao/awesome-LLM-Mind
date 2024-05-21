@@ -74,6 +74,9 @@
 - CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering, 2024.03 [[paper]](https://arxiv.org/pdf/2403.16008.pdf)
 - AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts, 2024.04 [[paper]](https://arxiv.org/pdf/2404.11449.pdf)
 - Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support, 2024.05 [[paper]](https://arxiv.org/pdf/2405.09300)
+- Can AI Relate: Testing Large Language Model Response for Mental Health Support, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12021)
+- Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11178)
+- Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11100)
 
 
 ## Others
@@ -82,3 +85,4 @@
 - Towards a Psychology of Machines: Large Language Models Predict Human Memory, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05152.pdf)
 - The Psychosocial Impacts of Generative AI Harms, 2024.05 [[paper]](https://arxiv.org/pdf/2405.01740)
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
+- How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
