@@ -61,6 +61,7 @@
 - Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench, 2023.10 [[paper]](https://arxiv.org/pdf/2310.01386.pdf) [[code]](https://github.com/CUHK-ARISE/PsychoBench)
 - CDEval: A Benchmark for Measuring the Cultural Dimensions of Large Language Models, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16421.pdf) [[code]](https://github.com/astrodrew/CDEval)
 - CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.10212)
+- MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12619)
 
 ## Mental Health Applications
 - A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
