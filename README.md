@@ -45,6 +45,7 @@
 
 ## LLM and Human
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
+- Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
 
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
