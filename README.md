@@ -42,6 +42,7 @@
 - Evaluating the Moral Beliefs Encoded in LLMs, 2023.07 [[paper]](https://arxiv.org/pdf/2307.14324.pdf) [[code]](https://github.com/ninodimontalcino/moralchoice)
 - Exploring ChatGPT’s Empathic Abilities, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03527.pdf)
 - MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19677.pdf)
+- Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12933)
 
 ## LLM and Human
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
