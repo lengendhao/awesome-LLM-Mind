@@ -48,6 +48,9 @@
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
 - Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
 
+## Experiment
+- We Need to Talk About Mechanical Turk: What 22,989 Hypothesis Tests Tell Us About Publication Bias and P-Hacking in Online Experiments, 2022.08 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188289)
+
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
 - CogBench: a large language model walks into a psychology lab, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18225.pdf) [[code]](https://github.com/juliancodaforno/CogBench)
