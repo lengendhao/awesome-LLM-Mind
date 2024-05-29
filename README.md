@@ -33,6 +33,7 @@
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
+- How Culturally Aware are Vision-Language Models?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17475)
 
 ## Agent
 - LLM Agents for Psychology: A Study on Gamified Assessments, 2024.02 [[paper]](https://arxiv.org/pdf/2402.12326.pdf)
@@ -44,6 +45,7 @@
 - MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19677.pdf)
 - Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12933)
 - Exploring and steering the moral compass of Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17345)
+- HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17633)
 
 ## LLM and Human
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
