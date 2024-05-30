@@ -30,6 +30,7 @@
 - Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
 - The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
 - Quite Good, but Not Enough: Nationality Bias in Large Language Models - A Case Study of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.06996)
+- Understanding Intrinsic Socioeconomic Biases in Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18662)
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
@@ -46,6 +47,7 @@
 - Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12933)
 - Exploring and steering the moral compass of Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17345)
 - HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17633)
+- The ethical situation of DALL-E 2, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19176)
 
 ## LLM and Human
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
@@ -53,6 +55,7 @@
 
 ## Experiment
 - We Need to Talk About Mechanical Turk: What 22,989 Hypothesis Tests Tell Us About Publication Bias and P-Hacking in Online Experiments, 2022.08 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188289)
+- Are Large Language Models Chameleons?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19323)
 
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
@@ -71,6 +74,7 @@
 - CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.10212)
 - MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12619)
 - CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling, 2024.05 [[paper]](https://arxiv.org/pdf/2405.16433)
+- Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,  2024.05 [[paper]](https://arxiv.org/pdf/2405.19088)
 
 ## Mental Health Applications
 - A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
@@ -96,3 +100,5 @@
 - The Psychosocial Impacts of Generative AI Harms, 2024.05 [[paper]](https://arxiv.org/pdf/2405.01740)
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
 - How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
+- LLMs achieve adult human performance on higher-order theory of mind tasks, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18870)
+
