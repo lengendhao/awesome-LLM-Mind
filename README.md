@@ -94,6 +94,7 @@
 
 
 ## Others
+- Thinking Fast and Slow in Large Language Models, 2022.12 [[paper]](https://arxiv.org/pdf/2212.05206)
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
 - Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14424.pdf)
 - Towards a Psychology of Machines: Large Language Models Predict Human Memory, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05152.pdf)
