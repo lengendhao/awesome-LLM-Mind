@@ -96,10 +96,12 @@
 ## Others
 - Thinking Fast and Slow in Large Language Models, 2022.12 [[paper]](https://arxiv.org/pdf/2212.05206)
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
+- Large language models can infer psychological dispositions of social media users, 2023.09 [[paper]](https://arxiv.org/pdf/2309.08631)
 - Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14424.pdf)
 - Towards a Psychology of Machines: Large Language Models Predict Human Memory, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05152.pdf)
 - The Psychosocial Impacts of Generative AI Harms, 2024.05 [[paper]](https://arxiv.org/pdf/2405.01740)
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
 - How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
 - LLMs achieve adult human performance on higher-order theory of mind tasks, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18870)
+
 
