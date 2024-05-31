@@ -25,12 +25,16 @@
 - Cognitive Effects in Large Language Model, 2023.08 [[paper]](https://arxiv.org/pdf/2308.14337.pdf)
 - Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots, 2024.04 [[paper]](https://www.nature.com/articles/s41598-024-55949-y)
 
-## Value
-- From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
-- Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
+## Bias of LLM
 - The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
 - Quite Good, but Not Enough: Nationality Bias in Large Language Models - A Case Study of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.06996)
 - Understanding Intrinsic Socioeconomic Biases in Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18662)
+- Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.20152)
+
+## Value
+- From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
+- Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
+
 
 ## Culture
 - The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?, 2023.08 [[paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.14242.pdf)
@@ -91,6 +95,7 @@
 - Can AI Relate: Testing Large Language Model Response for Mental Health Support, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12021)
 - Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11178)
 - Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11100)
+- PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19660)
 
 
 ## Others
