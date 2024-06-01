@@ -54,6 +54,7 @@
 - The ethical situation of DALL-E 2, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19176)
 
 ## LLM and Human
+- AI can help people feel heard, but an AI label diminishes this impact, 2024.01 [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2319112121)
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
 - Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
 
