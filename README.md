@@ -54,6 +54,7 @@
 - The ethical situation of DALL-E 2, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19176)
 
 ## LLM and Human
+- Can AI language models replace human participants?, 2023.07 [[paper]](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
 - AI can help people feel heard, but an AI label diminishes this impact, 2024.01 [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2319112121)
 - Would you trust an AI team member? Team trust in human–AI teams, 2024.03 [[paper]](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/joop.12504)
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
@@ -83,6 +84,7 @@
 - Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,  2024.05 [[paper]](https://arxiv.org/pdf/2405.19088)
 
 ## Mental Health Applications
+- In principle obstacles for empathic AI: why we can’t replace human empathy in healthcare, 2021.05 [[ppaer]](https://link.springer.com/article/10.1007/s00146-021-01230-z)
 - A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
 - Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
 - Influencing human–AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness, 2023.10 [[paper]](https://www.nature.com/articles/s42256-023-00720-7)
