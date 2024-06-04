@@ -61,6 +61,7 @@
 - Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
 
 ## Experiment
+- Artificial cognition: How experimental psychology can help generate explainable artificial intelligence, 2020.11 [[paper]](https://link.springer.com/article/10.3758/s13423-020-01825-5)
 - We Need to Talk About Mechanical Turk: What 22,989 Hypothesis Tests Tell Us About Publication Bias and P-Hacking in Online Experiments, 2022.08 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188289)
 - Are Large Language Models Chameleons?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19323)
 
@@ -100,6 +101,7 @@
 - Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11178)
 - Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11100)
 - PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19660)
+- CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.00314)
 
 
 ## Others
