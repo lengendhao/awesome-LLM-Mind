@@ -77,6 +77,7 @@
 - Turning large language models into cognitive models, 2023.06 [[paper]](https://arxiv.org/pdf/2306.03917.pdf)
 - NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli, 2024.05 [[paper]](https://arxiv.org/pdf/2405.02814)
 
+
 ## Bechmark
 - Emotionally numb or empathetic? evaluating how llms feel using emotionbench, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03656.pdf)[[code]](https://github.com/CUHK-ARISE/EmotionBench)
 - Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench, 2023.10 [[paper]](https://arxiv.org/pdf/2310.01386.pdf) [[code]](https://github.com/CUHK-ARISE/PsychoBench)
@@ -108,13 +109,13 @@
 
 ## Others
 - Thinking Fast and Slow in Large Language Models, 2022.12 [[paper]](https://arxiv.org/pdf/2212.05206)
+- Using cognitive psychology to understand GPT-3, 2023.02 [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2218523120)
 - Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Method, 2023.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2303/2303.13988.pdf)
 - Large language models can infer psychological dispositions of social media users, 2023.09 [[paper]](https://arxiv.org/pdf/2309.08631)
+- Using large language models in psychology, 2023.10 [[paper]](https://www.nature.com/articles/s44159-023-00241-5)
 - Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph, 2024.02 [[paper]](https://arxiv.org/pdf/2402.14424.pdf)
 - Towards a Psychology of Machines: Large Language Models Predict Human Memory, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05152.pdf)
 - The Psychosocial Impacts of Generative AI Harms, 2024.05 [[paper]](https://arxiv.org/pdf/2405.01740)
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
 - How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
 - LLMs achieve adult human performance on higher-order theory of mind tasks, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18870)
-
-
