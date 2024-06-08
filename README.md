@@ -30,6 +30,7 @@
 - Quite Good, but Not Enough: Nationality Bias in Large Language Models - A Case Study of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.06996)
 - Understanding Intrinsic Socioeconomic Biases in Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18662)
 - Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.20152)
+- Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04064)
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
@@ -52,6 +53,7 @@
 - Exploring and steering the moral compass of Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17345)
 - HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17633)
 - The ethical situation of DALL-E 2, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19176)
+- Do Language Models Understand Morality? Towards a Robust Detection of Moral Content, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04143)
 
 ## LLM and Human
 - Can AI language models replace human participants?, 2023.07 [[paper]](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
@@ -86,6 +88,7 @@
 - MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12619)
 - CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling, 2024.05 [[paper]](https://arxiv.org/pdf/2405.16433)
 - Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,  2024.05 [[paper]](https://arxiv.org/pdf/2405.19088)
+- ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04214)
 
 ## Mental Health Applications
 - In principle obstacles for empathic AI: why we can’t replace human empathy in healthcare, 2021.05 [[ppaer]](https://link.springer.com/article/10.1007/s00146-021-01230-z)
@@ -119,3 +122,5 @@
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
 - How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
 - LLMs achieve adult human performance on higher-order theory of mind tasks, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18870)
+- Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.03882)
+- BLSP-Emo: Towards Empathetic Large Speech-Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.03872)
