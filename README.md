@@ -2,6 +2,7 @@
 ## Survey
 - Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review, 2024.01 [[paper]](https://arxiv.org/ftp/arxiv/papers/2401/2401.01519.pdf)
 - Large Language Model for Mental Health: A Systematic Review, 2024.03 [[paper]](https://arxiv.org/ftp/arxiv/papers/2403/2403.15401.pdf)
+- Explainable AI for Mental Disorder Detection via Social Media: A survey and outlook, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05984)
 
 ## Personality
 - Can chatgpt assess human personalities? a general evaluation framework, 2023.06 [[paper]](https://arxiv.org/pdf/2303.01248.pdf)
@@ -31,6 +32,10 @@
 - Understanding Intrinsic Socioeconomic Biases in Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18662)
 - Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.20152)
 - Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04064)
+
+# Ethics
+- Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05392)
+
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
@@ -69,6 +74,7 @@
 - Artificial cognition: How experimental psychology can help generate explainable artificial intelligence, 2020.11 [[paper]](https://link.springer.com/article/10.3758/s13423-020-01825-5)
 - We Need to Talk About Mechanical Turk: What 22,989 Hypothesis Tests Tell Us About Publication Bias and P-Hacking in Online Experiments, 2022.08 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4188289)
 - Are Large Language Models Chameleons?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19323)
+- LLM Questionnaire Completion for Automatic Psychiatric Assessm, 2024.06 [[paper]](https://arxiv.org/pdf/2406.06636)
 
 ## Evaluation
 - Supervised Learning and Large Language Model Benchmarks on Mental Health Datasets: Cognitive Distortions and Suicidal Risks in Chinese Social Media, 2023.09 [[paper]](https://arxiv.org/pdf/2309.03564.pdf) [[code]](https://github.com/HongzhiQ/SupervisedVsLLM-EfficacyEval)
@@ -91,6 +97,7 @@
 - Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,  2024.05 [[paper]](https://arxiv.org/pdf/2405.19088)
 - ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04214)
 - MoralBench: Moral Evaluation of LLMs, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04428)
+- MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs, 2024.06 [[paper]](https://arxiv.org/pdf/2406.07243)
 
 ## Mental Health Applications
 - In principle obstacles for empathic AI: why we can’t replace human empathy in healthcare, 2021.05 [[ppaer]](https://link.springer.com/article/10.1007/s00146-021-01230-z)
@@ -124,5 +131,8 @@
 - Limited ability of LLMs to simulate human psychological behaviours: a psychometric analysis, 2024.05 [[paper]](https://arxiv.org/pdf/2405.07248)
 - How does ChatGPT 'think'? Psychology and neuroscience crack open AI large language models, 2024.05 [[paper]](https://pubmed.ncbi.nlm.nih.gov/38745024/)
 - LLMs achieve adult human performance on higher-order theory of mind tasks, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18870)
+- A Philosophical Introduction to Language Models Part II: The Way Forward, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03207)
 - Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.03882)
 - BLSP-Emo: Towards Empathetic Large Speech-Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.03872)
+- Deception abilities emerged in large language models， 2024.06 [paper](https://www.pnas.org/doi/abs/10.1073/pnas.2317967121)
+
