@@ -34,7 +34,6 @@
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
-- Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
 
 
 ## Culture
@@ -49,11 +48,13 @@
 - Evaluating the Moral Beliefs Encoded in LLMs, 2023.07 [[paper]](https://arxiv.org/pdf/2307.14324.pdf) [[code]](https://github.com/ninodimontalcino/moralchoice)
 - Exploring ChatGPT’s Empathic Abilities, 2023.08 [[paper]](https://arxiv.org/pdf/2308.03527.pdf)
 - MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19677.pdf)
+- Is ChatGPT More Empathetic than Humans?, 2024.03 [[paper]](https://arxiv.org/pdf/2403.05572.pdf) [[code]](https://github.com/anuradha1992/llm-empathy-evaluation)
 - Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.12933)
 - Exploring and steering the moral compass of Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17345)
 - HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs, 2024.05 [[paper]](https://arxiv.org/pdf/2405.17633)
 - The ethical situation of DALL-E 2, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19176)
 - Do Language Models Understand Morality? Towards a Robust Detection of Moral Content, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04143)
+- Are Large Language Models More Empathetic than Humans?, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05063)
 
 ## LLM and Human
 - Can AI language models replace human participants?, 2023.07 [[paper]](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
@@ -89,6 +90,7 @@
 - CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling, 2024.05 [[paper]](https://arxiv.org/pdf/2405.16433)
 - Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,  2024.05 [[paper]](https://arxiv.org/pdf/2405.19088)
 - ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04214)
+- MoralBench: Moral Evaluation of LLMs, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04428)
 
 ## Mental Health Applications
 - In principle obstacles for empathic AI: why we can’t replace human empathy in healthcare, 2021.05 [[ppaer]](https://link.springer.com/article/10.1007/s00146-021-01230-z)
