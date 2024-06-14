@@ -63,7 +63,7 @@
 
 ## LLM and Human
 - Can AI language models replace human participants?, 2023.07 [[paper]](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
-- Do you trust ChatGPTs? Effects of the ethical and quality issues of generative AI on travel decisions, 2023.09 [[https://www.tandfonline.com/doi/full/10.1080/10548408.2023.2293006]]
+- Do you trust ChatGPTs? Effects of the ethical and quality issues of generative AI on travel decisions, 2023.09 [[paper]](https://www.tandfonline.com/doi/full/10.1080/10548408.2023.2293006)
 - AI can help people feel heard, but an AI label diminishes this impact, 2024.01 [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2319112121)
 - Would you trust an AI team member? Team trust in human–AI teams, 2024.03 [[paper]](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/joop.12504)
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
