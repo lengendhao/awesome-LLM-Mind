@@ -32,6 +32,8 @@
 - Understanding Intrinsic Socioeconomic Biases in Large Language Models, 2024.05 [[paper]](https://arxiv.org/pdf/2405.18662)
 - Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.20152)
 - Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04064)
+- Underneath the Numbers: Quantitative and Qualitative Gender Fairness in LLMs for Depression Prediction, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08183)
+- Linguistic Bias in ChatGPT: Language Models Reinforce Dialect Discrimination, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08818)
 
 # Ethics
 - Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05392)
@@ -68,6 +70,7 @@
 - Would you trust an AI team member? Team trust in human–AI teams, 2024.03 [[paper]](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/joop.12504)
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
 - Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
+- Can AI Understand Human Personality? - Comparing Human Experts and AI Systems at Predicting Personality Correlations, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08170)
 
 
 ## Experiment
@@ -117,6 +120,7 @@
 - Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations, 2024.05 [[paper]](https://arxiv.org/pdf/2405.11100)
 - PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19660)
 - CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.00314)
+- Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08718)
 
 
 ## Others
