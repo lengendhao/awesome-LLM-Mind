@@ -26,6 +26,7 @@
 - Cognitive Effects in Large Language Model, 2023.08 [[paper]](https://arxiv.org/pdf/2308.14337.pdf)
 - Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots, 2024.04 [[paper]](https://www.nature.com/articles/s41598-024-55949-y)
 - ESCoT: Towards Interpretable Emotional Support Dialogue Systems, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10960)
+- Measuring Psychological Depth in Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.12680)
 
 ## Bias of LLM
 - The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
@@ -36,6 +37,7 @@
 - Underneath the Numbers: Quantitative and Qualitative Gender Fairness in LLMs for Depression Prediction, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08183)
 - Linguistic Bias in ChatGPT: Language Models Reinforce Dialect Discrimination, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08818)
 - Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10486)
+- Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Model, 2024.06 [[paper]](https://arxiv.org/pdf/2406.12033)
 
 # Ethics
 - Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05392)
@@ -126,6 +128,9 @@
 - CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.00314)
 - Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08718)
 - We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10561)
+- Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia, 2024.06 [[paper]](https://arxiv.org/pdf/2406.12687)
+- Towards a Client-Centered Assessment of LLM Therapists by Client Simulation, 2024.06 [[paper]](https://arxiv.org/pdf/2406.12266)
+- Risks from Language Models for Automated Mental Healthcare: Ethics and Structure for Implementation, 2024.06 [[paper]](https://arxiv.org/pdf/2406.11852)
 
 ## Others
 - Thinking Fast and Slow in Large Language Models, 2022.12 [[paper]](https://arxiv.org/pdf/2212.05206)
