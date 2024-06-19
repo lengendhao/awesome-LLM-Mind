@@ -25,6 +25,7 @@
 - Inducing anxiety in large language models increases exploration and bias, 2023.04 [[paper]](https://arxiv.org/pdf/2304.11111.pdf)
 - Cognitive Effects in Large Language Model, 2023.08 [[paper]](https://arxiv.org/pdf/2308.14337.pdf)
 - Risk and prosocial behavioural cues elicit human-like response patterns from AI chatbots, 2024.04 [[paper]](https://www.nature.com/articles/s41598-024-55949-y)
+- ESCoT: Towards Interpretable Emotional Support Dialogue Systems, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10960)
 
 ## Bias of LLM
 - The high dimensional psychological profile and cultural bias of ChatGPT, 2024.05 [[paper]](https://arxiv.org/pdf/2405.03387)
@@ -34,6 +35,7 @@
 - Ask LLMs Directly, “What shapes your bias? ”: Measuring Social Bias in Large Language Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.04064)
 - Underneath the Numbers: Quantitative and Qualitative Gender Fairness in LLMs for Depression Prediction, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08183)
 - Linguistic Bias in ChatGPT: Language Models Reinforce Dialect Discrimination, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08818)
+- Do Large Language Models Discriminate in Hiring Decisions on the Basis of Race, Ethnicity, and Gender?, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10486)
 
 # Ethics
 - Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas, 2024.06 [[paper]](https://arxiv.org/pdf/2406.05392)
@@ -41,6 +43,7 @@
 
 ## Value
 - From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17857.pdf) [[code]](https://arxiv.org/pdf/2310.17857.pdf)
+- Global Data Constraints: Ethical and Effectiveness Challenges in Large Language Model, 2024.06 [[paper]](https://arxiv.org/pdf/2406.11214)
 
 
 ## Culture
@@ -71,6 +74,7 @@
 - Can a Hallucinating Model help in Reducing Human “Hallucination”?, 2024.05 [[paper]](https://arxiv.org/pdf/2405.00843)
 - Testing theory of mind in large language models and humans, 2024.05 [[paper]](https://www.nature.com/articles/s41562-024-01882-z)
 - Can AI Understand Human Personality? - Comparing Human Experts and AI Systems at Predicting Personality Correlations, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08170)
+- Can Machines Resonate with Humans? Evaluating the Emotional and Empathic Comprehension of LMs, 2024.06 [[paper]](https://arxiv.org/pdf/2406.11250)
 
 
 ## Experiment
@@ -121,7 +125,7 @@
 - PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals, 2024.05 [[paper]](https://arxiv.org/pdf/2405.19660)
 - CASE: Curricular Data Pre-training for Building Generative and Discriminative Assistive Psychology Expert Models, 2024.06 [[paper]](https://arxiv.org/pdf/2406.00314)
 - Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations, 2024.06 [[paper]](https://arxiv.org/pdf/2406.08718)
-
+- We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation, 2024.06 [[paper]](https://arxiv.org/pdf/2406.10561)
 
 ## Others
 - Thinking Fast and Slow in Large Language Models, 2022.12 [[paper]](https://arxiv.org/pdf/2212.05206)
